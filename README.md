@@ -23,5 +23,4 @@ The VicWine Data Visualisation Playground is composed of four interactive brushi
 3. Grape Varieties Growth Summary (bottom left);
 4. Winery Ranking Chart (bottom right).
 
-The four-graph linked view bundle is strongly connected with each other. The interactions happen in multi-directional ways as shown in the figure below.
-![Image of brushing and linking among graphs]()
+The four-graph linked view bundle is strongly connected with each other. The interactions happen in multi-directional ways.
