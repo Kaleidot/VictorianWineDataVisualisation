@@ -19,6 +19,9 @@ In the third section, Victorian Wine Data Visualisation Playground, users can st
 
 The VicWine Data Visualisation Playground is composed of four interactive brushing and linking visualisations. They drill down into details from the state level (Victoria) to wine regions then to wineries. Please note that if you want to go back to Victoria after selecting a wine region, the only action you can do is to refresh the page.
 1. Victorian Wine Regions Overview (top left);
-2. Victorian Map of Wineries(purple dots) and Wine Regions(grape icons) (top right); 
+2. Victorian Map of Wineries (purple dots) and Wine Regions (grape icons) (top right); 
 3. Grape Varieties Growth Summary (bottom left);
 4. Winery Ranking Chart (bottom right).
+
+The four-graph linked view bundle is strongly connected with each other. The interactions happen in multi-directional ways as shown in the figure below.
+![Image of brushing and linking among graphs]()
