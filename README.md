@@ -1,5 +1,5 @@
 # VictorianWineDataVisualisation
-User Guide
+User Guide [  ]
 Procedures to launch the website
 Make sure you have Firefox installed on your computer. If not, please download it from this website https://www.mozilla.org/en-US/firefox/new/ now.
 Download the source code zip file and unzip it.
