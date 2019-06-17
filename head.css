@@ -1,0 +1,186 @@
+h1{
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+	color: black;
+	font-size: 2.5em;
+	margin-top: 1em;
+	margin-bottom: 0.25em;
+}
+
+h2{
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+	color: black;
+	font-size: 2em;
+	margin-top: 1em;
+	margin-bottom: 0.25em;
+}
+
+h3{
+	text-align: center;
+	font-family: 'Roboto Condensed', sans-serif;
+	color: black;
+	font-size: 1em;
+	margin-top: 1em;
+	margin-bottom: 0.25em;
+}
+
+h4{
+  text-align: left;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: black;
+  font-size: 1em;
+  margin-top: 1em;
+  margin-bottom: 0.25em;
+  font-weight: bold;
+}
+
+hr{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p{
+  font-family: 'Roboto Condensed', sans-serif;
+  color: black;
+  font-size: 1em;
+}
+
+a{
+  font-family: 'Roboto Condensed', sans-serif;
+  color: black;
+  font-size: 1em;
+}
+
+li{
+  font-family: 'Roboto Condensed', sans-serif;
+  color: black;
+  font-size: 1em;
+}
+
+.note{
+  font-family: 'Roboto Condensed', sans-serif;
+  color: black;
+  font-size: .8em;
+  font-style: italic;
+}
+
+.container{
+	position: relative;
+}
+
+.bgimage-content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 97.4%;
+  padding: 20px;
+  color: white;
+  text-align: left;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+/*.bgimage-content-header{
+	font-size: 2em;
+	width: 700px;
+}*/
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.bgimage-content-text{
+	font-size: 3.5em;
+	width: 1000px;
+  color: white;
+
+}
+
+.section-icon-image{
+	display: block;
+	margin-left: auto;
+  margin-right: auto;
+}
+
+.outlierAnnotation{
+  font-size: .75em;
+}
+
+.annotationWhite{
+  font-size: .75em;
+  fill: white;
+}
+
+rect {
+  fill: #F9B0AA
+}
+
+text {
+  font-size: 1em;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.winebaraxis {
+  font-size: .8em;
+}
+
+.tooltip {	
+    		position: absolute;			
+    		text-align: left;			
+    		width: 170px;					
+    		height: 30px;					
+    		padding: 2px;				
+    		font-family: 'Roboto Condensed', sans-serif;
+    		font-size: 1em;		
+    		background: white;	
+    		border: 1px solid black;
+    		border-radius: 2px;			
+    		pointer-events: none;			
+		}
+
+.floatinglabel {	
+    		position: absolute;			
+    		text-align: left;			
+    		width: 130px;					
+    		height: 30px;					
+    		padding: 2px;				
+    		font-family: 'Roboto Condensed', sans-serif;
+    		font-size: 1em;		
+    		background: white;	
+    		border: 1px solid black;
+    		border-radius: 2px;			
+    		pointer-events: none;			
+		}
+
+.tooltip2 {  
+        position: absolute;     
+        text-align: left;     
+        width: 230px;         
+        height: 100px;         
+        padding: 2px;       
+        font-family: 'Roboto Condensed', sans-serif;
+        font-size: 1em;   
+        background: white;  
+        border: 1px solid black;
+        border-radius: 2px;     
+        pointer-events: none;     
+    }
+
+.tooltip3 {  
+        position: absolute;     
+        text-align: left;     
+        width: 200px;         
+        height: 60px;         
+        padding: 2px;       
+        font-family: 'Roboto Condensed', sans-serif;
+        font-size: 1em;   
+        background: white;  
+        border: 1px solid black;
+        border-radius: 2px;     
+        pointer-events: none;     
+    }
